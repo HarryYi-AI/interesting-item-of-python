@@ -6,16 +6,36 @@ Some interesting projects using python (e.g. hearts, meteor showers, confessions
 
 
 爱心.py
+
 ![image](https://github.com/user-attachments/assets/6fe22076-a7a9-4296-a962-63056a35c4ce)
 
 
 star_line.py
+
 ![image](https://github.com/user-attachments/assets/4413ebbe-e2c2-4a3c-a662-e0ec945cafba)
 
 
 表白.py
+
 ![image](https://github.com/user-attachments/assets/83ad988d-9c31-405e-a159-03319ca5c1cd)
 
 
 冰墩墩.py
+
 ![image](https://github.com/user-attachments/assets/9603836b-95a3-4363-8761-676538a1eefe)
+
+时钟.py
+
+![image](https://github.com/user-attachments/assets/2812454f-8120-41a1-b5b9-620f3a35f114)
+
+雪容融.py
+
+![image](https://github.com/user-attachments/assets/c73df928-7756-4649-8983-4563dca2d784)
+
+樱花.py
+
+![image](https://github.com/user-attachments/assets/ad38f1b6-8025-400e-9b11-8663a6f4633d)
+
+圆形图形.py
+
+![image](https://github.com/user-attachments/assets/63c348ce-dfbe-41ca-a306-e0183aa41e78)
