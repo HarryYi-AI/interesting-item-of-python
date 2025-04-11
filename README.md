@@ -4,8 +4,8 @@ Some interesting projects using python (e.g. hearts, meteor showers, confessions
 
 文件命名大家忍耐一下，当初不懂事都搞成中文的了。
 
-``` bash
-爱心.py ```
+```bash
+爱心.py```
 ![image](https://github.com/user-attachments/assets/6fe22076-a7a9-4296-a962-63056a35c4ce)
 
 ```bash
