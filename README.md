@@ -26,7 +26,8 @@ star_line.py
 
 时钟.py
 
-![image](https://github.com/user-attachments/assets/2812454f-8120-41a1-b5b9-620f3a35f114)
+![image](https://github.com/user-attachments/assets/2e5ad2f9-4297-4cc6-b865-0b5f0dab108c)
+
 
 雪容融.py
 
